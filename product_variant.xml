@@ -31,7 +31,8 @@
             </field>
         </record>
 
-        <record id="product_variant_multi.product_template_form_view3" model="ir.ui.view">
+        <!-->
+                <record id="product_variant_multi.product_template_form_view3" model="ir.ui.view">
             <field name="name">product_variant_multi.product.template.form3</field>
             <field name="model">product.template</field>
             <field name="type">form</field>
@@ -41,7 +42,7 @@
                 </button>
             </field>
         </record>    
-
+ </ -->
 
 
         <act_window name="Genera Articolo Finito"
